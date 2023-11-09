@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T19:47:02.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ns52rrGmHE8N2_X4M_Rr" version="22.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-09T19:48:13.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="y56hxBus0I0G8awd-RUS" version="22.1.0" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="erase">
     <mxGraphModel dx="1248" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -603,7 +603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="main" id="bUqPFbo9TY00sMU3ud1A">
-    <mxGraphModel dx="4542" dy="2572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3937" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="U3pKAPX_niqzaYMYgW0D-0" />
         <mxCell id="U3pKAPX_niqzaYMYgW0D-1" parent="U3pKAPX_niqzaYMYgW0D-0" />
@@ -750,7 +750,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-m9e-8haKiQWJNvaDTr-20" value="case" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="U3pKAPX_niqzaYMYgW0D-1">
+        <mxCell id="6-m9e-8haKiQWJNvaDTr-20" value="call_back" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="U3pKAPX_niqzaYMYgW0D-1">
           <mxGeometry x="500" y="1070" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6-m9e-8haKiQWJNvaDTr-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;startSize=8;endSize=8;" edge="1" parent="U3pKAPX_niqzaYMYgW0D-1" source="6-m9e-8haKiQWJNvaDTr-22" target="6-m9e-8haKiQWJNvaDTr-28">
