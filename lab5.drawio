@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T06:04:08.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ejQuvD0ebkkZhvUGEUMO" version="22.1.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-23T06:06:58.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yroMS2mN0r9PwLeEKHJy" version="22.1.11" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="gnome_sort">
     <mxGraphModel dx="332" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,6 +400,50 @@
         </mxCell>
         <mxCell id="COJ6DJWqVLw1rmHyBccG-21" value="return node" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="960" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zBWiMr763FFv-t1x2D0e" name="Page-6">
+    <mxGraphModel dx="498" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNzcSuLtBSPSgSFfsog4-1" target="vNzcSuLtBSPSgSFfsog4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-1" value="write(file,**nodes,cnt,mode)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNzcSuLtBSPSgSFfsog4-2" target="vNzcSuLtBSPSgSFfsog4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-2" value="fprintf(file, &quot;%d\n&quot;, cnt);" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="180" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vNzcSuLtBSPSgSFfsog4-4" target="vNzcSuLtBSPSgSFfsog4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNzcSuLtBSPSgSFfsog4-4" target="vNzcSuLtBSPSgSFfsog4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-4" value="i=0;i&amp;lt;cnt;++i" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vNzcSuLtBSPSgSFfsog4-5" target="vNzcSuLtBSPSgSFfsog4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="440" />
+              <mxPoint x="160" y="440" />
+              <mxPoint x="160" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-5" value="write_node_to_file(file,nodes[i])" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vNzcSuLtBSPSgSFfsog4-9" value="return" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
