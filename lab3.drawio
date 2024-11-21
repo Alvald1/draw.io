@@ -626,7 +626,7 @@
             <mxPoint x="-2500" y="280" as="sourcePoint" />
             <mxPoint x="-2260" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2750" y="360" />
+              <mxPoint x="-2720" y="360" />
               <mxPoint x="-2250" y="360" />
             </Array>
           </mxGeometry>
@@ -741,7 +741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MxQSjdPs5pR_xpDf7jji-41" value="EffectCell" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-3080" y="523" width="160" height="124" as="geometry" />
+          <mxGeometry x="-3080" y="539" width="160" height="124" as="geometry" />
         </mxCell>
         <mxCell id="MxQSjdPs5pR_xpDf7jji-42" value="&lt;div&gt;- delta_hp : int&lt;/div&gt;&lt;div&gt;- delta_speed : int&lt;/div&gt;&lt;div&gt;- delta_damage : int&lt;/div&gt;&lt;div&gt;- delta_range : int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="MxQSjdPs5pR_xpDf7jji-41">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
