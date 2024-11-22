@@ -933,8 +933,8 @@
             <mxPoint x="-3370" y="-112" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-2920" y="-20" />
-              <mxPoint x="-3370" y="-20" />
-              <mxPoint x="-3370" y="-70" />
+              <mxPoint x="-3340" y="-20" />
+              <mxPoint x="-3340" y="-70" />
               <mxPoint x="-3125" y="-70" />
             </Array>
           </mxGeometry>
@@ -944,10 +944,11 @@
             <mxPoint x="-2910" y="10" as="sourcePoint" />
             <mxPoint x="-3230" y="-145" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2910" y="29" />
+              <mxPoint x="-3170" y="-20" />
+              <mxPoint x="-2910" y="-20" />
               <mxPoint x="-2910" y="-10" />
-              <mxPoint x="-3360" y="-10" />
-              <mxPoint x="-3360" y="-70" />
+              <mxPoint x="-3340" y="-10" />
+              <mxPoint x="-3340" y="-70" />
               <mxPoint x="-3125" y="-70" />
             </Array>
           </mxGeometry>
@@ -957,10 +958,11 @@
             <mxPoint x="-3070" y="39" as="sourcePoint" />
             <mxPoint x="-3230" y="-135" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2900" y="39" />
+              <mxPoint x="-3340" y="-20" />
+              <mxPoint x="-2900" y="-20" />
               <mxPoint x="-2900" />
-              <mxPoint x="-3350" />
-              <mxPoint x="-3350" y="-70" />
+              <mxPoint x="-3340" />
+              <mxPoint x="-3340" y="-70" />
               <mxPoint x="-3125" y="-70" />
             </Array>
           </mxGeometry>
@@ -970,7 +972,8 @@
             <mxPoint x="-3280" y="49" as="sourcePoint" />
             <mxPoint x="-3230" y="-125" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2890" y="49" />
+              <mxPoint x="-3550" y="-20" />
+              <mxPoint x="-2890" y="-20" />
               <mxPoint x="-2890" y="10" />
               <mxPoint x="-3340" y="10" />
               <mxPoint x="-3340" y="-70" />
